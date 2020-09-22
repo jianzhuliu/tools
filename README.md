@@ -1,11 +1,13 @@
 "# tools" 
 
 1、download
+
 git clone https://github.com/jianzhuliu/tools.git
 
-2、go get -v github.com/jianzhuliu/tools
+2、or go get -v github.com/jianzhuliu/tools
 
 3、demo.go
+
 package main 
 
 import (
